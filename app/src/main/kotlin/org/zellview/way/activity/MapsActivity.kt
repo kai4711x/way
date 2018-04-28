@@ -81,7 +81,7 @@ class MapsActivity : AppCompatActivity(),
         drawer = find<DrawerLayout>(R.id.drawer_layout);
 
         val toolbar = find<Toolbar>(R.id.toolbar);
-        this.setSupportActionBar(toolbar);
+        //this.setSupportActionBar(toolbar);
 
         val toggle = ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close)
