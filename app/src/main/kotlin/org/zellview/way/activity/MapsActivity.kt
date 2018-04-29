@@ -36,12 +36,14 @@ import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
+import com.rareventure.gps2.BuildConfig.APPLICATION_ID
+import com.rareventure.gps2.R
 
 import org.jetbrains.anko.find
 import org.jetbrains.anko.setContentView
 import org.jetbrains.anko.toast
-import org.zellview.way.BuildConfig.APPLICATION_ID
-import org.zellview.way.R
+//import org.zellview.way.BuildConfig.APPLICATION_ID
+//import org.zellview.way.R
 import org.zellview.way.service.ZellviewService
 import org.zellview.way.service.ZellviewService.Companion.zellviewService
 import org.zellview.way.view.MapsActivityView

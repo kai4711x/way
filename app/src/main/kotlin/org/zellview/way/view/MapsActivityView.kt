@@ -5,6 +5,7 @@ import android.support.v4.view.GravityCompat
 import android.view.Gravity
 import android.view.View
 import android.widget.FrameLayout
+import com.rareventure.gps2.R
 //import com.vsouhrada.android.kotlin.anko.drawer.R.attr.theme
 import org.jetbrains.anko.*
 import org.jetbrains.anko.appcompat.v7.toolbar
@@ -12,7 +13,7 @@ import org.jetbrains.anko.design.*
 import org.jetbrains.anko.support.v4._DrawerLayout
 import org.jetbrains.anko.support.v4.drawerLayout
 import org.zellview.way.activity.MapsActivity
-import org.zellview.way.R
+//import org.zellview.way.R
 import org.zellview.way.util.attrAsDimen
 
 //import org.zellview.way.R

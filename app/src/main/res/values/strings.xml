@@ -47,7 +47,7 @@
     <string name="enter_password">Enter password</string>
     <string name="password_incorrect">Password Incorrect</string>
     <string name="turn_on_gps_query">Would you like to turn on GPS collecting in the background right away?</string>
-    <string name="service_active">GPS collecting is active</string>
+    <string name="service_active">Recording is active</string>
     <string name="service_gps_not_enabled">GPS needs to be enabled to collect GPS points</string>
     <string name="dialog_long_task_title">Please wait…</string>
     <string name="create_database_dialog_message">Creating database</string>
@@ -184,4 +184,11 @@
 
     <string name="action_settings">Settings</string>
     <string name="email">zellview@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="no_location_detected">No location detected. Make sure location is enabled on the device.</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+
 </resources>
