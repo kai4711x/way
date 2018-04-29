@@ -27,7 +27,7 @@ import pl.tajchert.nammu.Nammu
 // optional. default is your application name
 // optional. when defined, adds a user text field input with this text resource as a label
 // optional. displays a Toast message when the user accepts to send a report.
-class GpsTrailerReviewerApplication : Application() {
+class ZellviewApp : Application() {
     override fun onCreate() {
         // The following line triggers the initialization of ACRA
         ACRA.init(this)
